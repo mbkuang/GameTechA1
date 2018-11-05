@@ -1,0 +1,7 @@
+Matthew Kuang
+mk35622
+
+For this assignment, I implemented all of the base requirements. In addition,
+I added texture maps to improve the graphics and enabled shadows. Outside of 
+the difficulties in learning OGRE, the biggest problem I encountered was 
+getting different "random" values to be generated every time.
